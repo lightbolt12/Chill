@@ -10,7 +10,8 @@ import { logger } from '../utils/logger.js';
 export const botConfig = {
   // Bot presence and status
   presence: {
-    status: "online",
+    status: "red do not disturp"
+  ,
     activities: [
       {
         name: "/help | Titan Bot",
